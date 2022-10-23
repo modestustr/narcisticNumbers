@@ -33,6 +33,8 @@ namespace NarsistNumbers
             if (!isNumeric)
             {
                 Console.WriteLine("Please enter number");
+                isShowDesc = false;
+                goto Start;
             }
             else
             {
