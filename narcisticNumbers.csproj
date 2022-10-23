@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{25396D8A-361B-4F10-BF75-01B76F1C7CBA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NarsistNumbers</RootNamespace>
-    <AssemblyName>NarsistNumbers</AssemblyName>
+    <RootNamespace>narcisticNumbers</RootNamespace>
+    <AssemblyName>narcisticNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
