@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NarsistNumbers", "NarsistNumbers.csproj", "{25396D8A-361B-4F10-BF75-01B76F1C7CBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "narcisticNumbers", "narcisticNumbers.csproj", "{25396D8A-361B-4F10-BF75-01B76F1C7CBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
